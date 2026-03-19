@@ -1,0 +1,11 @@
+[package]
+name = "greenflow-contract"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "greenflow_contract"
+crate-type = ["cdylib"]
+
